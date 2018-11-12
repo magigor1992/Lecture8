@@ -1,0 +1,85 @@
+12.11.2018 14:21:48	This log contains information about the import schema operation into project 'Database1' on computer 'DESKTOP-PFLGU3I' by user 'Igor'.
+12.11.2018 14:21:48	Import of database schema has started.
+12.11.2018 14:22:07	Gathering database credentials
+12.11.2018 14:22:07	Gathering database options
+12.11.2018 14:22:07	Gathering generic database scoped configuration option
+12.11.2018 14:22:08	Gathering users
+12.11.2018 14:22:08	Gathering roles
+12.11.2018 14:22:08	Gathering application roles
+12.11.2018 14:22:08	Gathering role memberships
+12.11.2018 14:22:08	Gathering filegroups
+12.11.2018 14:22:08	Gathering full-text catalogs
+12.11.2018 14:22:08	Gathering assemblies
+12.11.2018 14:22:08	Gathering certificates
+12.11.2018 14:22:08	Gathering asymmetric keys
+12.11.2018 14:22:08	Gathering symmetric keys
+12.11.2018 14:22:08	Gathering encrypted symmetric keys
+12.11.2018 14:22:08	Gathering schemas
+12.11.2018 14:22:08	Gathering XML schema collections
+12.11.2018 14:22:08	Gathering user-defined data types
+12.11.2018 14:22:08	Gathering user-defined types
+12.11.2018 14:22:08	Gathering table types
+12.11.2018 14:22:08	Gathering unique keys for table types
+12.11.2018 14:22:08	Gathering primary keys for table types
+12.11.2018 14:22:08	Gathering indexes for table types
+12.11.2018 14:22:08	Gathering check constraints for table types
+12.11.2018 14:22:08	Gathering default constraints for table types
+12.11.2018 14:22:08	Gathering partition functions
+12.11.2018 14:22:08	Gathering partition schemes
+12.11.2018 14:22:08	Gathering functions
+12.11.2018 14:22:08	Gathering encrypted functions
+12.11.2018 14:22:08	Gathering aggregates
+12.11.2018 14:22:08	Gathering procedures
+12.11.2018 14:22:08	Gathering encrypted procedures
+12.11.2018 14:22:08	Gathering tables
+12.11.2018 14:22:08	Gathering primary keys
+12.11.2018 14:22:08	Gathering unique constraints
+12.11.2018 14:22:08	Gathering foreign keys
+12.11.2018 14:22:08	Gathering default constraints
+12.11.2018 14:22:08	Gathering check constraints
+12.11.2018 14:22:08	Gathering views
+12.11.2018 14:22:08	Gathering encrypted views
+12.11.2018 14:22:08	Gathering indexes
+12.11.2018 14:22:08	Gathering statistics
+12.11.2018 14:22:08	Gathering full-text index stoplists
+12.11.2018 14:22:08	Gathering search property lists
+12.11.2018 14:22:08	Gathering search properties
+12.11.2018 14:22:08	Gathering full-text indexes
+12.11.2018 14:22:08	Gathering column store indexes
+12.11.2018 14:22:08	Gathering spatial indexes
+12.11.2018 14:22:08	Gathering XML indexes
+12.11.2018 14:22:08	Gathering Selective XML indexes
+12.11.2018 14:22:09	Gathering encrypted triggers
+12.11.2018 14:22:09	Gathering triggers
+12.11.2018 14:22:09	Gathering encrypted and clr ddl triggers
+12.11.2018 14:22:09	Gathering ddl triggers
+12.11.2018 14:22:09	Gathering synonyms
+12.11.2018 14:22:09	Gathering defaults
+12.11.2018 14:22:09	Gathering data constraint uddt bindings
+12.11.2018 14:22:09	Gathering rules
+12.11.2018 14:22:09	Gathering data constraint uddt bindings
+12.11.2018 14:22:09	Gathering message types
+12.11.2018 14:22:09	Gathering queues
+12.11.2018 14:22:09	Gathering contracts
+12.11.2018 14:22:09	Gathering services
+12.11.2018 14:22:09	Gathering event notifications
+12.11.2018 14:22:09	Gathering remote service bindings
+12.11.2018 14:22:09	Gathering broker priorities
+12.11.2018 14:22:09	Gathering signatures
+12.11.2018 14:22:09	Gathering data compression options
+12.11.2018 14:22:09	Gathering sequence types
+12.11.2018 14:22:09	Gathering security policies
+12.11.2018 14:22:09	Gather column encryption keys
+12.11.2018 14:22:09	Gathering column master keys
+12.11.2018 14:22:09	Gathering external data sources
+12.11.2018 14:22:09	Gathering external file formats
+12.11.2018 14:22:09	Gathering external tables
+12.11.2018 14:22:09	Gathering extended properties
+12.11.2018 14:22:09	Gathering credentials
+12.11.2018 14:22:09	Gathering logins
+12.11.2018 14:22:09	Gathering server audits
+12.11.2018 14:22:10	Scanning project for duplicate elements
+12.11.2018 14:22:10	Finished duplicate element processing
+12.11.2018 14:22:11	Finished importing database.
+12.11.2018 14:22:11	A summary of the import was saved to the following location: E:\Eleks\Lecture8\Database1\Database1\Import Schema Logs\Database1_20181112122148.log
+12.11.2018 14:22:11	Click Finish to continue...

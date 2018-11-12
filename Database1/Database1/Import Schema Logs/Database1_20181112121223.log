@@ -1,0 +1,101 @@
+12.11.2018 14:12:23	This log contains information about the import schema operation into project 'Database1' on computer 'DESKTOP-PFLGU3I' by user 'Igor'.
+12.11.2018 14:12:23	Import of database schema has started.
+12.11.2018 14:12:31	Gathering error messages
+12.11.2018 14:12:31	Gathering cryptographic providers
+12.11.2018 14:12:31	Gathering credentials
+12.11.2018 14:12:31	Gathering logins
+12.11.2018 14:12:31	Gathering server roles
+12.11.2018 14:12:31	Gathering server role memberships
+12.11.2018 14:12:31	Gathering linked servers
+12.11.2018 14:12:31	Gathering linked server logins
+12.11.2018 14:12:31	Gathering routes
+12.11.2018 14:12:31	Gathering ddl triggers
+12.11.2018 14:12:31	Gathering encrypted and clr ddl triggers
+12.11.2018 14:12:31	Gathering event notifications
+12.11.2018 14:12:31	Gathering server audits
+12.11.2018 14:12:31	Gathering server audit specifications
+12.11.2018 14:12:31	Gathering event notifications
+12.11.2018 14:12:46	Gathering database credentials
+12.11.2018 14:12:46	Gathering database options
+12.11.2018 14:12:46	Gathering generic database scoped configuration option
+12.11.2018 14:12:46	Gathering users
+12.11.2018 14:12:46	Gathering roles
+12.11.2018 14:12:46	Gathering application roles
+12.11.2018 14:12:46	Gathering role memberships
+12.11.2018 14:12:47	Gathering filegroups
+12.11.2018 14:12:47	Gathering files
+12.11.2018 14:12:47	Gathering full-text catalogs
+12.11.2018 14:12:47	Gathering assemblies
+12.11.2018 14:12:47	Gathering certificates
+12.11.2018 14:12:47	Gathering asymmetric keys
+12.11.2018 14:12:47	Gathering symmetric keys
+12.11.2018 14:12:47	Gathering encrypted symmetric keys
+12.11.2018 14:12:47	Gathering database encryption keys
+12.11.2018 14:12:47	Gathering schemas
+12.11.2018 14:12:47	Gathering XML schema collections
+12.11.2018 14:12:47	Gathering user-defined data types
+12.11.2018 14:12:47	Gathering user-defined types
+12.11.2018 14:12:47	Gathering table types
+12.11.2018 14:12:47	Gathering unique keys for table types
+12.11.2018 14:12:47	Gathering primary keys for table types
+12.11.2018 14:12:47	Gathering indexes for table types
+12.11.2018 14:12:47	Gathering check constraints for table types
+12.11.2018 14:12:47	Gathering default constraints for table types
+12.11.2018 14:12:47	Gathering partition functions
+12.11.2018 14:12:47	Gathering partition schemes
+12.11.2018 14:12:47	Gathering functions
+12.11.2018 14:12:47	Gathering encrypted functions
+12.11.2018 14:12:47	Gathering aggregates
+12.11.2018 14:12:47	Gathering procedures
+12.11.2018 14:12:47	Gathering encrypted procedures
+12.11.2018 14:12:47	Gathering tables
+12.11.2018 14:12:47	Gathering primary keys
+12.11.2018 14:12:47	Gathering unique constraints
+12.11.2018 14:12:47	Gathering foreign keys
+12.11.2018 14:12:47	Gathering default constraints
+12.11.2018 14:12:47	Gathering check constraints
+12.11.2018 14:12:47	Gathering views
+12.11.2018 14:12:47	Gathering encrypted views
+12.11.2018 14:12:47	Gathering indexes
+12.11.2018 14:12:47	Gathering statistics
+12.11.2018 14:12:47	Gathering full-text index stoplists
+12.11.2018 14:12:47	Gathering search property lists
+12.11.2018 14:12:47	Gathering search properties
+12.11.2018 14:12:47	Gathering full-text indexes
+12.11.2018 14:12:47	Gathering column store indexes
+12.11.2018 14:12:47	Gathering spatial indexes
+12.11.2018 14:12:48	Gathering XML indexes
+12.11.2018 14:12:48	Gathering Selective XML indexes
+12.11.2018 14:12:48	Gathering encrypted triggers
+12.11.2018 14:12:48	Gathering triggers
+12.11.2018 14:12:48	Gathering encrypted and clr ddl triggers
+12.11.2018 14:12:48	Gathering ddl triggers
+12.11.2018 14:12:48	Gathering synonyms
+12.11.2018 14:12:48	Gathering defaults
+12.11.2018 14:12:48	Gathering data constraint uddt bindings
+12.11.2018 14:12:48	Gathering rules
+12.11.2018 14:12:48	Gathering data constraint uddt bindings
+12.11.2018 14:12:48	Gathering message types
+12.11.2018 14:12:48	Gathering queues
+12.11.2018 14:12:48	Gathering contracts
+12.11.2018 14:12:48	Gathering services
+12.11.2018 14:12:48	Gathering routes
+12.11.2018 14:12:48	Gathering event notifications
+12.11.2018 14:12:48	Gathering remote service bindings
+12.11.2018 14:12:48	Gathering broker priorities
+12.11.2018 14:12:48	Gathering database audit specifications
+12.11.2018 14:12:48	Gathering signatures
+12.11.2018 14:12:48	Gathering data compression options
+12.11.2018 14:12:48	Gathering sequence types
+12.11.2018 14:12:48	Gathering security policies
+12.11.2018 14:12:48	Gather column encryption keys
+12.11.2018 14:12:48	Gathering column master keys
+12.11.2018 14:12:48	Gathering external data sources
+12.11.2018 14:12:48	Gathering external file formats
+12.11.2018 14:12:48	Gathering external tables
+12.11.2018 14:12:48	Gathering extended properties
+12.11.2018 14:12:50	Scanning project for duplicate elements
+12.11.2018 14:12:50	Finished duplicate element processing
+12.11.2018 14:12:51	Finished importing database.
+12.11.2018 14:12:51	A summary of the import was saved to the following location: E:\Eleks\Lecture8\Database1\Database1\Import Schema Logs\Database1_20181112121223.log
+12.11.2018 14:12:51	Click Finish to continue...
